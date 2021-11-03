@@ -1,6 +1,7 @@
 ### Hello! I'm Guilherme
 
 - Computer Science @ PUCRS
+- IT Academy intern @ Dell
 
 Some of my interests are:
 
