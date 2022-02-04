@@ -14,6 +14,7 @@ Some of my interests are:
   <img align="center" alt="arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain.svg" />
 </div>
 
+##
 
 <div align="center">
   <a href="https://github.com/gcvieira">
